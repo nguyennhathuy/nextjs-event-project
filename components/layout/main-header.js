@@ -11,7 +11,6 @@ function MainHeader() {
                 <ul>
                     <li>
                         <Link href="/events">Browse All Events</Link>
-                        
                     </li>
                 </ul>
             </nav>
